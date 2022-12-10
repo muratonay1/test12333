@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreEngine/CoreEngine.iml" filepath="$PROJECT_DIR$/CoreEngine/CoreEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatabaseOperation/DatabaseOperation.iml" filepath="$PROJECT_DIR$/DatabaseOperation/DatabaseOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microService.iml" filepath="$PROJECT_DIR$/microService.iml" />
+    </modules>
+  </component>
+</project>
